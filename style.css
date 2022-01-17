@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color:coral;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+header {
+    background-color: blue;
+    height: 300px;
+}
